@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Papalo007
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: ok.papalo007@gmail.com
 
 <!---
